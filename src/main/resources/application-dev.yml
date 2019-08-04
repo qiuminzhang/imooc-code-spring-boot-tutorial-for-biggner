@@ -1,0 +1,8 @@
+server:
+  port: 8080
+height: B // 配置多个属性
+age: 18
+content: "height: ${height}, age: ${age}"
+person:
+  height: 111
+  age: 345678
